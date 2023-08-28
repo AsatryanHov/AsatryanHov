@@ -30,42 +30,26 @@ body {
   background-color: yellow;
 }
 
-.tab-container {
-  width: 80%;
-  margin: 0 auto;
-}
-.tab-container .button-wrapper {
+.wrapper {
   display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-  background-color: green;
+  flex-direction: row;
 }
 
-.tab-header {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
+.content-hidden {
+  display: none;
 }
 
-.tab-button {
-  min-width: 100px;
-  margin: 10px;
-  padding: 10px 20px;
-  background-color: #ccc;
-  border-radius: 100px;
-  border: none;
+.hidden {
+  display: none;
+}
+
+[data-name],
+[data-tab] {
   cursor: pointer;
 }
 
-.tab-button.active {
-  background-color: #aaa;
-}
-
-.tab {
-  display: none;
-  padding: 20px;
-}
-
-.tab.active {
-  display: block;
+.tabs {
+  width: 20%;
+  height: 100vh;
+  background-color: goldenrod;
 }
