@@ -1,55 +1,37 @@
-@font-face {
-  font-family: CormorantUpright;
-  font-display: swap;
-  src: url("../fonts/CormorantUpright-Bold.woff2") format("woff2"), url("../fonts/CormorantUpright-Bold.woff") format("woff");
-  font-weight: 700;
-  font-style: normal;
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
 }
-@font-face {
-  font-family: CormorantUpright;
-  font-display: swap;
-  src: url("../fonts/CormorantUpright-Regular.woff2") format("woff2"), url("../fonts/CormorantUpright-Regular.woff") format("woff");
-  font-weight: 400;
-  font-style: normal;
+
+a {
+  text-decoration: none;
 }
-@font-face {
-  font-family: CormorantUpright;
-  font-display: swap;
-  src: url("../fonts/CormorantUpright-SemiBold.woff2") format("woff2"), url("../fonts/CormorantUpright-SemiBold.woff") format("woff");
-  font-weight: 600;
-  font-style: normal;
+
+ul,
+ol,
+li {
+  list-style: none;
 }
-@font-face {
-  font-family: TTTrailers;
-  font-display: swap;
-  src: url("../fonts/TTTrailers-Regular.woff2") format("woff2"), url("../fonts/TTTrailers-Regular.woff") format("woff");
-  font-weight: 400;
-  font-style: normal;
+
+img {
+  vertical-align: top;
 }
-body {
-  background-color: yellow;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: inherit;
+  font-size: inherit;
 }
 
 .wrapper {
-  display: flex;
-  flex-direction: row;
-}
-
-.content-hidden {
-  display: none;
-}
-
-.hidden {
-  display: none;
-}
-
-[data-name],
-[data-tab] {
-  cursor: pointer;
-}
-
-.tabs {
-  width: 20%;
-  height: 100vh;
-  background-color: goldenrod;
+  background: linear-gradient(45deg, #000132, #232756, #464a7b);
+  color: white;
 }
