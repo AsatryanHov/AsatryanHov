@@ -33,6 +33,9 @@ h6 {
 
 body {
   font-family: "Roboto", sans-serif;
+  font-family: "Caveat", cursive;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: white;
 }
 
@@ -56,24 +59,25 @@ body {
 }
 
 .name {
+  font-family: "Caveat", cursive;
   width: 100%;
   display: block;
   text-align: center;
   font-weight: 700;
   margin-bottom: calc(
-      40px + -5 * ((100vw - 320px) / 960)
+      15px + 20 * ((100vw - 320px) / 960)
     );
 }
 @media (max-width: 767px) {
   .name {
     font-size: calc(
-      40px + 34 * ((100vw - 320px) / 1280)
+      40px + 85 * ((100vw - 320px) / 1280)
     );
   }
 }
 @media (min-width: 767px) {
   .name {
-    font-size: calc(40px + 20 * (100vw / 1280));
+    font-size: calc(40px + 50 * (100vw / 1280));
   }
 }
 
@@ -127,10 +131,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: calc(
-      30px + 320 * ((100vw - 320px) / 960)
+  min-width: calc(
+      150px + 200 * ((100vw - 320px) / 960)
     );
-  height: calc(
+  min-height: calc(
       20px + 50 * ((100vw - 320px) / 960)
     );
   color: inherit;
