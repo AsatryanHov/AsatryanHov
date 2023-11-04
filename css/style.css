@@ -149,6 +149,7 @@ body {
   border-width: calc(
       2px + 3 * ((100vw - 320px) / 960)
     );
+  font-family: "Caveat", cursive;
 }
 @media (max-width: 767px) {
   .portfolio_item {
