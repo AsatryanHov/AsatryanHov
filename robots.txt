@@ -1,7 +1,3 @@
+Sitemap: https://github.com/AsatryanHov/AsatryanHov/blob/main/sitemap.xml
 User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/
-Disallow: /wp-content/plugins/
-Disallow: /wp-content/themes/
-
-Sitemap:https://github.com/AsatryanHov/AsatryanHov/blob/main/sitemap.xml
+Allow: https://asatryanhov.github.io/AsatryanHov/
