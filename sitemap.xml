@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://asatryanhov.github.io/AsatryanHov/</loc>
-  </url>
-  <url>
-    <loc>https://asatryanhov.github.io/learn_front-end/</loc>
-  </url>
-  <url>
-    <loc>https://asatryanhov.github.io/PLN_AMD_converter/</loc>
-  </url>
-  <url>
-    <loc>https://asatryanhov.github.io/color-pallets/</loc>
-  </url>
-  <url>
-    <loc>https://asatryanhov.github.io/QR_generator/</loc>
-  </url>
-  <url>
-    <loc>https://asatryanhov.github.io/WEB_DEV_tools/</loc>
-  </url>
-  
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://asatryanhov.github.io/AsatryanHov/</loc>
+  <lastmod>2024-01-25T17:54:10+00:00</lastmod>
+</url>
+
+
 </urlset>
-
-    
-

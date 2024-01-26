@@ -168,7 +168,7 @@ img {
   z-index: 2;
 }
 
-video {
+.header_bg_animation {
   position: absolute;
   top: 0;
   left: 0;
