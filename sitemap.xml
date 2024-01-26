@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -14,3 +15,14 @@
 
 
 </urlset>
+=======
+
+<!-- <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<url>
+<loc>https://asatryanhov.github.io/AsatryanHov/</loc>
+<lastmod>2024-01-22T18:08:20+00:00</lastmod>
+</url>
+</urlset>
+ -->
+>>>>>>> 91f73262e1a76b96f22152c1ba252017d91902bb
