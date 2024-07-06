@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AsatryanHov/static/css/main.580b458c.css",
+    "main.js": "/AsatryanHov/static/js/main.1c644d72.js",
+    "static/media/learn_js.png": "/AsatryanHov/static/media/learn_js.ef964c16f974805fc6d4.png",
+    "static/media/color-pallete.jpg": "/AsatryanHov/static/media/color-pallete.8779a3ad4529b603196b.jpg",
+    "static/media/web_dev_tools.jpg": "/AsatryanHov/static/media/web_dev_tools.4318e4f3f04fd902a371.jpg",
+    "static/media/qr_generator.jpg": "/AsatryanHov/static/media/qr_generator.ed5727c9245c9843a0c0.jpg",
+    "static/media/pln_converter.jpg": "/AsatryanHov/static/media/pln_converter.caa30119299265e07796.jpg",
+    "static/media/github.svg": "/AsatryanHov/static/media/github.6f4f23830b69fbd844bdd47fbd1e7cb6.svg",
+    "static/media/my_logo.svg": "/AsatryanHov/static/media/my_logo.1099746ce35d819fd53782d73608eec9.svg",
+    "static/media/instagram.svg": "/AsatryanHov/static/media/instagram.d5d43d644799763675a4841e4c5381e2.svg",
+    "static/media/youtube.svg": "/AsatryanHov/static/media/youtube.6c5622688ed9dd888ad473392615dcc0.svg",
+    "static/media/linkedin.svg": "/AsatryanHov/static/media/linkedin.a463803c21fa4168e29b5d18c0dcc756.svg",
+    "index.html": "/AsatryanHov/index.html",
+    "static/media/x.svg": "/AsatryanHov/static/media/x.a6648e111220c0765d25cc55fd0d6089.svg",
+    "static/media/chevron-down.svg": "/AsatryanHov/static/media/chevron-down.65ac6432530e6f5c4c254dc00bdadd68.svg",
+    "main.580b458c.css.map": "/AsatryanHov/static/css/main.580b458c.css.map",
+    "main.1c644d72.js.map": "/AsatryanHov/static/js/main.1c644d72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.580b458c.css",
+    "static/js/main.1c644d72.js"
+  ]
+}
