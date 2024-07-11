@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AsatryanHov/static/css/main.580b458c.css",
+    "main.css": "/AsatryanHov/static/css/main.654cd7e0.css",
     "main.js": "/AsatryanHov/static/js/main.1c644d72.js",
     "static/media/learn_js.png": "/AsatryanHov/static/media/learn_js.ef964c16f974805fc6d4.png",
     "static/media/color-pallete.jpg": "/AsatryanHov/static/media/color-pallete.8779a3ad4529b603196b.jpg",
@@ -15,11 +15,11 @@
     "index.html": "/AsatryanHov/index.html",
     "static/media/x.svg": "/AsatryanHov/static/media/x.a6648e111220c0765d25cc55fd0d6089.svg",
     "static/media/chevron-down.svg": "/AsatryanHov/static/media/chevron-down.65ac6432530e6f5c4c254dc00bdadd68.svg",
-    "main.580b458c.css.map": "/AsatryanHov/static/css/main.580b458c.css.map",
+    "main.654cd7e0.css.map": "/AsatryanHov/static/css/main.654cd7e0.css.map",
     "main.1c644d72.js.map": "/AsatryanHov/static/js/main.1c644d72.js.map"
   },
   "entrypoints": [
-    "static/css/main.580b458c.css",
+    "static/css/main.654cd7e0.css",
     "static/js/main.1c644d72.js"
   ]
 }
